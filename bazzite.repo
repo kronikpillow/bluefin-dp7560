@@ -1,0 +1,5 @@
+[bazzite-kernel]
+name=Bazzite Kernel Repository
+baseurl=https://copr.fedorainfracloud.org/coprs/bazzite/kernel/repo/fedora-$releasever/$basearch/
+enabled=1
+gpgcheck=1
